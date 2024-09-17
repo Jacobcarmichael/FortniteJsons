@@ -54,7 +54,7 @@ https://discord.gg/4qvBbeEvb9
 |---------|--------|
 | 4.00    | ❌      |
 | 4.10    | ❌      |
-| 4.20    | ✅      | @jacob.c
+| 4.20    | ✅  submitted by jacob.c    | 
 | 4.40    | ❌      |
 | 4.4.1   | ❌      |
 | 4.50    | ❌      |
@@ -65,7 +65,7 @@ https://discord.gg/4qvBbeEvb9
 |---------|--------|
 | 5.00    | ❌      |
 | 5.10    | ❌      |
-| 5.21    | ✅      | @jacob.c
+| 5.21    | ✅ submitted by jacob.c   |
 | 5.30    | ❌      |
 | 5.40    | ❌      |
 | 5.41    | ❌      |
@@ -140,7 +140,7 @@ https://discord.gg/4qvBbeEvb9
 
 | Version | Status |
 |---------|--------|
-| 11.00   | ✅      | @jacob.c
+| 11.00   | ✅ submitted by jacob.c    | 
 | 11.01   | ❌      |
 | 11.10   | ❌      |
 | 11.11   | ❌      |
