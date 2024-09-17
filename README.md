@@ -1,4 +1,4 @@
-# Fortnite Jsons Archive
+ # Fortnite Jsons Archive
 
 Welcome to the Sonn to be largest Fortnite Jsons Archive on GitHub!
 
@@ -64,7 +64,7 @@ https://discord.gg/4qvBbeEvb9
 |---------|--------|
 | 5.00    | ❌      |
 | 5.10    | ❌      |
-| 5.21    | ❌      |
+| 5.21    | ✅      |
 | 5.30    | ❌      |
 | 5.40    | ❌      |
 | 5.41    | ❌      |
