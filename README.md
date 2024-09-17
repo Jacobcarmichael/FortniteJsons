@@ -1,8 +1,9 @@
  # Fortnite Jsons Archive
 
-Welcome to the Sonn to be largest Fortnite Jsons Archive on GitHub!
+Welcome to the Soon to be largest Fortnite Jsons Archive on GitHub!
 
 If you enjoy our work and want to support us, consider joning the disocd to help contibute. Thank you for your support!
+---
 https://discord.gg/4qvBbeEvb9
 ---
 
@@ -12,7 +13,7 @@ https://discord.gg/4qvBbeEvb9
 
  Chapter 1 (1.00-10.40)
 
- Season 0 & 1
+### Season 0 & 1
 
 | Version | Status |
 |---------|--------|
@@ -24,7 +25,7 @@ https://discord.gg/4qvBbeEvb9
 | 1.91    | ❌      |
 | 1.10    | ❌      |
 
- Season 2
+### Season 2
 
 | Version | Status |
 |---------|--------|
@@ -35,7 +36,7 @@ https://discord.gg/4qvBbeEvb9
 | 2.4.2   | ❌      |
 | 2.5.0   | ❌      |
 
- Season 3
+### Season 3
 
 | Version | Status |
 |---------|--------|
