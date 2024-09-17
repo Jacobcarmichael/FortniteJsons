@@ -7,7 +7,7 @@ If you enjoy our work and want to support us, consider joning the disocd to help
 https://discord.gg/4qvBbeEvb9
 ---
 
- List of Fortnite Versions
+ # List of Fortnite Versions
 
 ---
 
