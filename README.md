@@ -106,7 +106,7 @@ https://discord.gg/4qvBbeEvb9
 | 8.30    | ❌      |
 | 8.40    | ❌      |
 | 8.50    | ❌      |
-| 8.51    | ❌      | 
+| 8.51    | ✅ submitted by snakeyflea    | 
 
 ### Season 9
 
@@ -173,7 +173,7 @@ https://discord.gg/4qvBbeEvb9
 | 13.00   | ❌      |
 | 13.20   | ❌      |
 | 13.30   | ❌      |
-| 13.40   | ❌      |
+| 13.40   | ✅ submitted by redfn.done    |
 
 ### Season 4 (Nexus War)
 
