@@ -3,9 +3,7 @@
 Welcome to the Soon to be largest Fortnite Jsons Archive on GitHub!
 
 If you enjoy our work and want to support us, consider joning the disocd to help contibute. Thank you for your support!
----
-https://discord.gg/4qvBbeEvb9
----
+
 
  # List of Fortnite Versions
 
