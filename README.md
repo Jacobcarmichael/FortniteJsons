@@ -116,14 +116,14 @@ If you enjoy our work and want to support us, consider joning the disocd to help
 | 9.20    | ❌      |
 | 9.21    | ❌      |
 | 9.30    | ❌      |
-| 9.40    | ❌      |
+| 9.40    | ✅ submitted by blurfirefn   |
 | 9.41    | ❌      | 
 
 ### Season 10
 
 | Version | Status |
 |---------|--------|
-| 10.00   | ❌      |
+| 10.00   | ✅ submitted by yumiksyn    |
 | 10.10   | ❌      |
 | 10.20   | ❌      |
 | 10.30   | ❌      |
@@ -153,7 +153,7 @@ If you enjoy our work and want to support us, consider joning the disocd to help
 
 | Version | Status |
 |---------|--------|
-| 12.00   | ❌      |
+| 12.00   | ✅ submitted by snakeyflea   |
 | 12.10   | ❌      |
 | 12.20   | ❌      |
 | 12.21   | ❌      |
