@@ -65,7 +65,7 @@ If you enjoy our work and want to support us, consider joning the disocd to help
 | 5.10    | ❌      |
 | 5.21    | ✅ submitted by jacob.c   |
 | 5.30    | ❌      |
-| 5.40    | ❌      |
+| 5.40    | ✅ submitted by eevesus_pika     |
 | 5.41    | ❌      |
 
 ### Season 6
@@ -77,7 +77,7 @@ If you enjoy our work and want to support us, consider joning the disocd to help
 | 6.02    | ❌      |
 | 6.10    | ❌      |
 | 6.20    | ❌      |
-| 6.21    | ❌      |
+| 6.21    | ✅ submitted by eevesus_pika     |
 | 6.22    | ❌      |
 | 6.30    | ❌      |
 | 6.31    | ❌      | 
