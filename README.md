@@ -159,7 +159,7 @@ If you enjoy our work and want to support us, consider joning the disocd to help
 | 12.21   | ❌      |
 | 12.30   | ❌      |
 | 12.40   | ❌      |
-| 12.41   | ❌      |
+| 12.41   | ✅ submitted by visi_is_taken      |
 | 12.50   | ❌      |
 | 12.60   | ❌      |
 | 12.61   | ❌      |
