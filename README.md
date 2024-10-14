@@ -39,7 +39,7 @@ If you enjoy our work and want to support us, consider joning the disocd to help
 | Version | Status |
 |---------|--------|
 | 3.00    | ❌      |
-| 3.10    | ❌      |
+| 3.10    | ✅  submitted by  ytevilmr.f   |
 | 3.1.1   | ❌      |
 | 3.20    | ❌      |
 | 3.30    | ❌      |
@@ -90,7 +90,7 @@ If you enjoy our work and want to support us, consider joning the disocd to help
 | 7.10    | ❌      |
 | 7.20    | ❌      |
 | 7.30    | ❌      |
-| 7.40    | ❌      |
+| 7.40    | ✅ submitted by eevesus_pika      |
 
 ### Season 8
 
