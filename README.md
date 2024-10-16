@@ -183,7 +183,7 @@ If you enjoy our work and want to support us, consider joning the disocd to help
 | 14.30   | ❌      |
 | 14.40   | ❌      |
 | 14.50   | ❌      |
-| 14.60   | ❌      |
+| 14.60   | ✅ submitted by bluecereal.      |
 
 ### Season 5 (Zero Point)
 
@@ -286,7 +286,7 @@ If you enjoy our work and want to support us, consider joning the disocd to help
 
 | Version | Status |
 |---------|--------|
-| 23.00   | ✅ submitted by bluecereal. |
+| 23.00   | ❌
 | 23.10   | ❌      |
 | 23.20   | ❌      |
 | 23.30   | ❌      |
