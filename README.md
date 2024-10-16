@@ -286,7 +286,7 @@ If you enjoy our work and want to support us, consider joning the disocd to help
 
 | Version | Status |
 |---------|--------|
-| 23.00   | ❌      |
+| 23.00   | ✅ submitted by bluecereal. |
 | 23.10   | ❌      |
 | 23.20   | ❌      |
 | 23.30   | ❌      |
