@@ -1,6 +1,6 @@
  # Fortnite Jsons Archive
 
-Welcome to the Soon to be largest Fortnite Jsons Archive on GitHub!
+Welcome to the largest Fortnite Jsons Archive on GitHub!
 
 If you enjoy our work and want to support us, consider joning the disocd to help contibute. Thank you for your support!
 
