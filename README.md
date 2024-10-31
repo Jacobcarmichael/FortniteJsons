@@ -180,7 +180,7 @@ If you enjoy our work and want to support us, consider joning the disocd to help
 | 14.00   | ❌      |
 | 14.10   | ❌      |
 | 14.20   | ❌      |
-| 14.30   | ❌      |
+| 14.30   | ✅ submitted by tilted10fn_      |
 | 14.40   | ❌      |
 | 14.50   | ❌      |
 | 14.60   | ✅ submitted by bluecereal.      |
