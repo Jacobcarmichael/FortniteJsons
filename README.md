@@ -302,7 +302,7 @@ If you enjoy our work and want to support us, consider joning the disocd to help
 | 24.10   | ❌      |
 | 24.20   | ❌      |
 | 24.30   | ❌      |
-| 24.40   | ✅ submitted by redfn.done      |
+| 24.40   | ❌      |
 
 ### Season 3 (Wilds)
 
