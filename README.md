@@ -182,7 +182,7 @@ https://discord.gg/4qvBbeEvb9
 | 14.10   | ❌      |
 | 14.20   | ❌      |
 | 14.30   | ✅ submitted by tilted10fn_      |
-| 14.40   | ❌      |
+| 14.40   | ✅ submitted by gawid     |
 | 14.50   | ❌      |
 | 14.60   | ✅ submitted by bluecereal.      |
 
