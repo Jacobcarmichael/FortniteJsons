@@ -18,7 +18,7 @@ https://discord.gg/4qvBbeEvb9
 |---------|--------|
 | 1.72    | ❌      |
 | 1.80    | ❌      |
-| 1.81    | ❌      |
+| 1.81    | ✅ submitted by yorainz      |
 | 1.82    | ❌      |
 | 1.90    | ❌      |
 | 1.91    | ❌      |
@@ -28,7 +28,7 @@ https://discord.gg/4qvBbeEvb9
 
 | Version | Status |
 |---------|--------|
-| 1.11    | ❌      |
+| 1.11    | ✅ submitted by snakyflea      |
 | 2.1.0   | ❌      |
 | 2.3.0   | ❌      |
 | 2.4.0   | ❌      |
