@@ -194,7 +194,7 @@ https://discord.gg/4qvBbeEvb9
 | 15.10   | ❌      |
 | 15.20   | ❌      |
 | 15.21   | ❌      |
-| 15.30   | ❌      |
+| 15.30   | ✅ submitted by TiltedFN |
 | 15.40   | ❌      |
 | 15.50   | ❌      |
 
@@ -206,7 +206,7 @@ https://discord.gg/4qvBbeEvb9
 | 16.10   | ❌      |
 | 16.20   | ❌      |
 | 16.30   | ❌      |
-| 16.40   | ❌      |
+| 16.40   | ✅ submitted by TiltedFN |
 | 16.50   | ❌      |
 
 ### Season 7 (Invasion)
@@ -242,7 +242,7 @@ https://discord.gg/4qvBbeEvb9
 |---------|--------|
 | 19.00   | ❌      |
 | 19.01   | ❌      |
-| 19.10   | ❌      |
+| 19.10   | ✅ submitted by TiltedFN  |
 | 19.20   | ❌      |
 | 19.30   | ❌      |
 | 19.40   | ❌      |
