@@ -219,7 +219,7 @@ https://discord.gg/4qvBbeEvb9
 | 17.21   | ❌      |
 | 17.30   | ❌      |
 | 17.40   | ❌      |
-| 17.50   | ❌      |
+| 17.50   | ✅ submitted by  silverrrrrrrrrr    |
 
 ### Season 8 (Cubed)
 
