@@ -322,7 +322,7 @@ https://discord.gg/4qvBbeEvb9
 | 26.00   | ❌      |
 | 26.10   | ❌      |
 | 26.20   | ❌      |
-| 26.30   | ❌      |
+| 26.30   | ✅ submitted by Highlander     |
 
 ## Chapter 5 (28.00–31.30)
 
