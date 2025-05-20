@@ -365,3 +365,4 @@ https://discord.gg/4qvBbeEvb9
 | 31.10   | ❌      |
 | 31.20   | ❌      |
 | 31.30   | ❌      |
+| 31.40   |✅ submitted by Highlander    |
