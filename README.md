@@ -217,7 +217,7 @@ https://discord.gg/4qvBbeEvb9
 | 17.10   | ❌      |
 | 17.20   | ❌      |
 | 17.21   | ❌      |
-| 17.30   | ❌      |
+| 17.30   | ✅ submitted by Highlander     |
 | 17.40   | ❌      |
 | 17.50   | ✅ submitted by  silverrrrrrrrrr    |
 
